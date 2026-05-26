@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsrocess",
+        "uuid": 6567708,
+        "checksum": "yffww3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
